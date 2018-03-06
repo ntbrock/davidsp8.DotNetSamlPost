@@ -1,2 +1,5 @@
-# davidsp8.DotNetSamlPost
-2018Mar06 Patches to DotNetSamlPost that flex VU475445
+Source File replacements for https://www.codeproject.com/KB/aspnet/DotNetSamlPost/Saml_Source.zip to add feature for VU475445 testing.
+
+Learn more at https://www.kb.cert.org/vuls/id/475445
+
+
